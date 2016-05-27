@@ -1,0 +1,1 @@
+# meteor-imagemagick-onbuild
